@@ -1,2 +1,0 @@
-# CylinderGLKit
-Game, GLKit
